@@ -6,6 +6,8 @@ GENERIC SETUP
 [] = setup nodemailer notification on uncaught error
 [] = eslint
 [] = setup babel
+[] = Bookshelf as an ORM
+
 
 
 SAVE
